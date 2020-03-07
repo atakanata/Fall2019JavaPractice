@@ -1,4 +1,4 @@
-package com.automation.utilities.DriverFactory;
+package com.automation.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
