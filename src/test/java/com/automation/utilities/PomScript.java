@@ -1,4 +1,4 @@
-package com.automation.tests;
+package com.automation.utilities;
 
 public class PomScript {
 
